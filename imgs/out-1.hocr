@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "imgs/1.png"; bbox 0 0 543 480; ppageno 0; scan_res 150 150'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 15 498 333">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 0 15 498 333">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 15 489 50; baseline 0.002 -1; x_size 43.458618; x_descenders 9.4586172; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_1' title='bbox 42 15 215 49; x_wconf 96'>INGREDIENTS:</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 247 16 336 50; x_wconf 93'>Enriched</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 368 16 489 50; x_wconf 71'>unbleached</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 40 53 496 98; baseline 0.002 -11; x_size 44; x_descenders 10; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_4' title='bbox 40 54 89 87; x_wconf 95'>flour</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 107 53 180 97; x_wconf 94'>(wheat</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 198 54 249 93; x_wconf 93'>flour,</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 270 55 341 98; x_wconf 90'>malted</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 358 55 425 98; x_wconf 90'>barley</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 441 55 496 98; x_wconf 93'>flour,</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 40 92 496 137; baseline 0.004 -11; x_size 44; x_descenders 10; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_10' title='bbox 40 93 127 126; x_wconf 93'>ascorbic</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 141 93 183 136; x_wconf 94'>acid</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 197 92 270 136; x_wconf 93'>[dough</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 282 93 412 137; x_wconf 62'>conditioner),</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 428 103 496 137; x_wconf 96'>niacin,</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 41 132 496 175; baseline 0.004 -10; x_size 42; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_15' title='bbox 41 132 124 175; x_wconf 75'>reduced</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 162 141 206 175; x_wconf 86'>iron,</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 253 142 323 175; x_wconf 42'>thiamin</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 362 137 496 171; x_wconf 51'>mononitrate,</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 0 170 490 216; baseline 0.004 -12; x_size 44; x_descenders 10; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_19' title='bbox 0 191 1 194; x_wconf 0'>—</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 40 170 143 209; x_wconf 8'>fiboflavin,</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 163 171 208 205; x_wconf 90'>folic</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 227 170 282 211; x_wconf 86'>acid),</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 303 172 409 215; x_wconf 92'>sugar,</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 424 172 490 216; x_wconf 91'>degermed</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 39 181 478 285; baseline 0.007 -42; x_size 44; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_25' title='bbox 39 210 109 252; x_wconf 92'>yellow</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 122 210 225 254; x_wconf 46'>cornmeal,</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 240 210 283 254; x_wconf 96'>salt,</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 299 210 399 285; x_wconf 13'>miei</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 411 181 478 251; x_wconf 58'>takin</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 39 221 498 293; baseline 0.007 -10; x_size 42; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_30' title='bbox 39 249 94 288; x_wconf 95'>soda,</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 132 250 208 293; x_wconf 91'>sodium</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 246 250 288 285; x_wconf 81'>acid</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 327 260 423 293; x_wconf 18'>_pyrophos</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 439 221 498 291; x_wconf 60'>hate</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 38 289 484 333; baseline 0.007 -10; x_size 43; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_35' title='bbox 38 289 125 332; x_wconf 96'>soybean</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 134 289 164 328; x_wconf 93'>oil,</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 174 289 237 333; x_wconf 94'>honey</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 245 290 328 333; x_wconf 96'>powder,</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 338 291 411 325; x_wconf 95'>natural</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 430 291 484 326; x_wconf 87'>flavor.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 37 338 494 435">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 0 338 494 447">
+     <span class='ocr_line' id='line_1_9' title="bbox 37 338 260 375; baseline 0 -1; x_size 45.232025; x_descenders 9.2320261; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_41' title='bbox 37 338 174 374; x_wconf 91'>CONTAINS:</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 182 339 260 375; x_wconf 89'>Wheat.</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 37 389 494 435; baseline 0.006 -10.775; x_size 44; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_43' title='bbox 37 389 84 433; x_wconf 96'>May</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 91 390 169 425; x_wconf 96'>contain</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 179 390 227 430; x_wconf 96'>milk,</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 236 400 292 435; x_wconf 85'>eggs,</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 302 401 337 435; x_wconf 94'>soy</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 345 391 383 427; x_wconf 95'>and</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 392 397 434 427; x_wconf 88'>tree</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 443 397 494 428; x_wconf 93'>nuts.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_separator' id='block_1_3' title="bbox 535 173 543 480"></div>
+  </div>
+ </body>
+</html>
