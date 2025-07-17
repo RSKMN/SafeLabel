@@ -1,0 +1,649 @@
+{
+  "lays classic": {
+    "product": "lays classic",
+    "ingredients": [
+      "potatoes",
+      "vegetable oil",
+      "salt"
+    ],
+    "response": "Mostly safe ingredients. Suitable for consumption in moderation.",
+    "date": "2025-07-06"
+  },
+  "maggie noodles": {
+    "product": "maggie noodles",
+    "ingredients": [
+      "wheat flour",
+      "palm oil",
+      "salt",
+      "acidity regulator",
+      "flavor enhancer (621)"
+    ],
+    "response": "Acidity regulators should be consumed in moderation as their safety varies. Flavor enhancer (MSG) may cause sensitivity in some individuals.",
+    "date": "2025-07-06"
+  },
+  "oreo": {
+    "product": "oreo",
+    "ingredients": [
+      "sugar",
+      "wheat flour",
+      "palm oil",
+      "cocoa solids",
+      "leavening agents",
+      "salt",
+      "soy lecithin",
+      "vanillin"
+    ],
+    "response": "Groq API error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+    "model_used": "llama3-8b-8192",
+    "date": "2025-07-16 19:45:59"
+  },
+  "kitkat": {
+    "product": "kitkat",
+    "ingredients": [
+      "sugar",
+      "wheat flour",
+      "cocoa mass",
+      "cocoa butter",
+      "vegetable fat",
+      "skim milk powder",
+      "emulsifier (soy lecithin)",
+      "natural flavor"
+    ],
+    "response": "Includes emulsifiers and natural flavors—generally safe, but some individuals may be sensitive to additives.",
+    "date": "2025-07-06"
+  },
+  "doritos nacho cheese": {
+    "product": "doritos nacho cheese",
+    "ingredients": [
+      "corn",
+      "vegetable oil",
+      "cheddar cheese",
+      "whey",
+      "buttermilk",
+      "monosodium glutamate",
+      "salt",
+      "spices",
+      "artificial flavor"
+    ],
+    "response": "Contains MSG and artificial flavors which may cause sensitivity in some individuals. Cheese-based powders can have hidden additives.",
+    "date": "2025-07-06"
+  },
+  "pringles original": {
+    "product": "pringles original",
+    "ingredients": [
+      "dried potatoes",
+      "vegetable oil",
+      "corn flour",
+      "wheat starch",
+      "rice flour",
+      "maltodextrin",
+      "salt"
+    ],
+    "response": "Maltodextrin is a processed additive; safe in small amounts. Rest of the ingredients are generally safe.",
+    "date": "2025-07-06"
+  },
+  "coca cola": {
+    "product": "coca cola",
+    "ingredients": [
+      "carbonated water",
+      "sugar",
+      "caramel color",
+      "phosphoric acid",
+      "natural flavors",
+      "caffeine"
+    ],
+    "response": "High sugar and caffeine content. Caramel color and phosphoric acid should be consumed moderately.",
+    "date": "2025-07-06"
+  },
+  "sprite": {
+    "product": "sprite",
+    "ingredients": [
+      "carbonated water",
+      "sugar",
+      "citric acid",
+      "natural lemon and lime flavor",
+      "sodium citrate"
+    ],
+    "response": "High sugar and citric acid content—excess may affect dental health. Otherwise, generally safe.",
+    "date": "2025-07-06"
+  },
+  "pepsi": {
+    "product": "pepsi",
+    "ingredients": [
+      "carbonated water",
+      "high fructose corn syrup",
+      "caramel color",
+      "sugar",
+      "phosphoric acid",
+      "caffeine",
+      "citric acid",
+      "natural flavors"
+    ],
+    "response": "High fructose corn syrup and phosphoric acid may contribute to metabolic issues if consumed frequently.",
+    "date": "2025-07-06"
+  },
+  "5 star": {
+    "product": "5 star",
+    "ingredients": [
+      "sugar",
+      "glucose syrup",
+      "milk solids",
+      "cocoa butter",
+      "cocoa mass",
+      "vegetable fat",
+      "emulsifiers",
+      "flavorings"
+    ],
+    "response": "Contains high sugar and processed fat. Emulsifiers and artificial flavorings should be limited if sensitive.",
+    "date": "2025-07-06"
+  },
+  "kurkure": {
+    "product": "kurkure",
+    "ingredients": [
+      "corn meal",
+      "edible vegetable oil",
+      "rice meal",
+      "gram meal",
+      "spices",
+      "condiments",
+      "sugar",
+      "salt",
+      "acidity regulator (330)",
+      "flavor enhancer (627, 631)"
+    ],
+    "response": "Contains acidity regulator and flavor enhancers (including MSG-like compounds). Best consumed in moderation.",
+    "date": "2025-07-06"
+  },
+  "hide & seek fab": {
+    "product": "hide & seek fab",
+    "ingredients": [
+      "wheat flour",
+      "sugar",
+      "edible vegetable oil",
+      "cocoa solids",
+      "milk solids",
+      "emulsifiers",
+      "leavening agents",
+      "salt",
+      "flavoring agents"
+    ],
+    "response": "Processed ingredients like emulsifiers and flavoring agents may be a concern for some. Safe in moderate amounts.",
+    "date": "2025-07-06"
+  },
+  "marie gold": {
+    "product": "marie gold",
+    "ingredients": [
+      "wheat flour",
+      "sugar",
+      "edible vegetable oil",
+      "milk solids",
+      "salt",
+      "leavening agents"
+    ],
+    "response": "Mostly basic ingredients; safe if consumed in moderation. Some may be sensitive to leavening agents.",
+    "date": "2025-07-06"
+  },
+  "bourbon": {
+    "product": "bourbon",
+    "ingredients": [
+      "wheat flour",
+      "sugar",
+      "cocoa solids",
+      "vegetable oil",
+      "milk solids",
+      "salt",
+      "emulsifier (322)",
+      "leavening agent",
+      "flavoring"
+    ],
+    "response": "Emulsifier (322, often lecithin) and flavorings are generally safe, but processed. Moderation recommended.",
+    "date": "2025-07-06"
+  },
+  "good day": {
+    "product": "good day",
+    "ingredients": [
+      "wheat flour",
+      "sugar",
+      "vegetable oil",
+      "milk solids",
+      "cashew nuts",
+      "almonds",
+      "salt",
+      "leavening agents",
+      "flavoring"
+    ],
+    "response": "Nuts are nutritious; other additives like flavorings and leavening agents are processed but safe in small amounts.",
+    "date": "2025-07-06"
+  },
+  "perk": {
+    "product": "perk",
+    "ingredients": [
+      "sugar",
+      "wheat flour",
+      "cocoa solids",
+      "milk solids",
+      "vegetable oil",
+      "emulsifier",
+      "leavening agent",
+      "salt",
+      "flavoring agents"
+    ],
+    "response": "Contains standard processed snack ingredients. Suitable for occasional consumption.",
+    "date": "2025-07-06"
+  },
+  "mentos": {
+    "product": "mentos",
+    "ingredients": [
+      "sugar",
+      "glucose syrup",
+      "hydrogenated coconut oil",
+      "starch",
+      "gum arabic",
+      "flavorings",
+      "emulsifier",
+      "color (171)",
+      "glazing agent"
+    ],
+    "response": "Includes artificial color (titanium dioxide), which may raise concerns. Consume sparingly.",
+    "date": "2025-07-06"
+  },
+  "kinder joy": {
+    "product": "kinder joy",
+    "ingredients": [
+      "sugar",
+      "skim milk powder",
+      "vegetable fats",
+      "wheat flour",
+      "cocoa mass",
+      "hazelnuts",
+      "emulsifiers",
+      "leavening agents",
+      "vanillin"
+    ],
+    "response": "Vanillin and emulsifiers are synthetic. Moderation advised, especially for children.",
+    "date": "2025-07-06"
+  },
+  "amul cheese": {
+    "product": "amul cheese",
+    "ingredients": [
+      "milk",
+      "salt",
+      "citric acid",
+      "enzymes",
+      "emulsifiers",
+      "preservatives"
+    ],
+    "response": "Processed cheese with preservatives and emulsifiers—safe in small servings.",
+    "date": "2025-07-06"
+  },
+  "amul butter": {
+    "product": "amul butter",
+    "ingredients": [
+      "cream",
+      "salt"
+    ],
+    "response": "Natural and simple ingredients. High in fat, so should be consumed in moderation.",
+    "date": "2025-07-06"
+  },
+  "amul kool": {
+    "product": "amul kool",
+    "ingredients": [
+      "toned milk",
+      "sugar",
+      "stabilizers",
+      "flavoring substances"
+    ],
+    "response": "Contains stabilizers and flavorings which are generally safe but artificial additives should be consumed in moderation.",
+    "date": "2025-07-06"
+  },
+  "red bull": {
+    "product": "red bull",
+    "ingredients": [
+      "carbonated water",
+      "sucrose",
+      "glucose",
+      "citric acid",
+      "taurine",
+      "caffeine",
+      "glucuronolactone",
+      "inositol",
+      "niacin",
+      "vitamin B6",
+      "vitamin B12",
+      "flavorings",
+      "colors"
+    ],
+    "response": "High caffeine and sugar content; artificial colors and flavorings present. Not recommended for children or sensitive individuals.",
+    "date": "2025-07-06"
+  },
+  "monster energy": {
+    "product": "monster energy",
+    "ingredients": [
+      "carbonated water",
+      "sucrose",
+      "glucose",
+      "citric acid",
+      "natural flavors",
+      "taurine",
+      "sodium citrate",
+      "caffeine",
+      "colorings",
+      "vitamin B2",
+      "vitamin B3",
+      "vitamin B6",
+      "vitamin B12"
+    ],
+    "response": "Contains caffeine and added vitamins; colorings and flavorings may cause sensitivities in some people.",
+    "date": "2025-07-06"
+  },
+  "frooti": {
+    "product": "frooti",
+    "ingredients": [
+      "mango pulp",
+      "water",
+      "sugar",
+      "citric acid",
+      "ascorbic acid",
+      "color (160a)",
+      "flavor"
+    ],
+    "response": "Contains artificial color (160a) and flavor; natural mango pulp is nutritious but drink has added sugars and additives.",
+    "date": "2025-07-06"
+  },
+  "real orange juice": {
+    "product": "real orange juice",
+    "ingredients": [
+      "orange juice concentrate",
+      "water",
+      "sugar",
+      "ascorbic acid",
+      "citric acid"
+    ],
+    "response": "Mostly natural ingredients but added sugar reduces overall health benefits.",
+    "date": "2025-07-06"
+  },
+  "bingo mad angles": {
+    "product": "bingo mad angles",
+    "ingredients": [
+      "corn flour",
+      "edible vegetable oil",
+      "spices and condiments",
+      "salt",
+      "sugar",
+      "flavor enhancers (621)",
+      "acidity regulator",
+      "antioxidants"
+    ],
+    "response": "Contains flavor enhancer (MSG) and acidity regulators; consume in moderation.",
+    "date": "2025-07-06"
+  },
+  "haldiram aloo bhujia": {
+    "product": "haldiram aloo bhujia",
+    "ingredients": [
+      "potato",
+      "gram flour",
+      "edible vegetable oil",
+      "salt",
+      "spices",
+      "citric acid"
+    ],
+    "response": "Natural ingredients with citric acid as preservative; generally safe in moderation.",
+    "date": "2025-07-06"
+  },
+  "parle-g": {
+    "product": "parle-g",
+    "ingredients": [
+      "wheat flour",
+      "sugar",
+      "vegetable oil",
+      "milk solids",
+      "leavening agents",
+      "salt"
+    ],
+    "response": "Basic biscuit ingredients; safe but high sugar content should be noted.",
+    "date": "2025-07-06"
+  },
+  "little Debbie brownies": {
+    "product": "little Debbie brownies",
+    "ingredients": [
+      "sugar",
+      "wheat flour",
+      "soybean oil",
+      "cocoa",
+      "corn syrup",
+      "eggs",
+      "chocolate chips",
+      "salt",
+      "preservatives",
+      "flavorings"
+    ],
+    "response": "Contains preservatives and flavorings; high sugar and corn syrup content may affect health if consumed frequently.",
+    "date": "2025-07-06"
+  },
+  "twinkies": {
+    "product": "twinkies",
+    "ingredients": [
+      "enriched wheat flour",
+      "sugar",
+      "corn syrup",
+      "vegetable shortening",
+      "eggs",
+      "leavening agents",
+      "salt",
+      "flavorings",
+      "preservatives"
+    ],
+    "response": "Highly processed with preservatives and artificial flavorings; best consumed occasionally.",
+    "date": "2025-07-06"
+  },
+  "lays bbq": {
+    "product": "lays bbq",
+    "ingredients": [
+      "potatoes",
+      "vegetable oil",
+      "salt",
+      "spices",
+      "tomato powder",
+      "onion powder",
+      "dextrose",
+      "paprika extract (color)"
+    ],
+    "response": "Contains natural spices and powders; dextrose is a sugar variant. Safe in moderation.",
+    "date": "2025-07-06"
+  },
+  "maggi 2-minute noodles masala": {
+    "product": "maggi 2-minute noodles masala",
+    "ingredients": [
+      "wheat flour",
+      "palm oil",
+      "salt",
+      "spices & condiments",
+      "hydrolyzed ground nut protein",
+      "onion powder",
+      "taste enhancers (627, 631)",
+      "iodized salt"
+    ],
+    "response": "Contains taste enhancers (including MSG derivatives). Moderation recommended.",
+    "date": "2025-07-06"
+  },
+  "sunfeast yippee noodles": {
+    "product": "sunfeast yippee noodles",
+    "ingredients": [
+      "wheat flour",
+      "palm oil",
+      "wheat gluten",
+      "potato starch",
+      "salt",
+      "edible starch",
+      "spice mix",
+      "hydrolyzed vegetable protein",
+      "flavor enhancers (621)"
+    ],
+    "response": "Contains flavor enhancer MSG (621) and processed starches; consume occasionally.",
+    "date": "2025-07-06"
+  },
+  "lays salt & vinegar": {
+    "product": "lays salt & vinegar",
+    "ingredients": [
+      "potatoes",
+      "vegetable oil",
+      "salt",
+      "vinegar powder",
+      "maltodextrin",
+      "flavorings"
+    ],
+    "response": "Contains maltodextrin and flavorings; generally safe but consume in moderation.",
+    "date": "2025-07-06"
+  },
+  "oreo double stuf": {
+    "product": "oreo double stuf",
+    "ingredients": [
+      "sugar",
+      "wheat flour",
+      "palm oil",
+      "high fructose corn syrup",
+      "cocoa",
+      "cornstarch",
+      "leavening agents",
+      "salt",
+      "emulsifiers",
+      "vanillin"
+    ],
+    "response": "High sugar and corn syrup content; emulsifiers and artificial flavors present. Consume sparingly.",
+    "date": "2025-07-06"
+  },
+  "hershey's chocolate bar": {
+    "product": "hershey's chocolate bar",
+    "ingredients": [
+      "sugar",
+      "milk",
+      "cocoa butter",
+      "chocolate",
+      "lactose",
+      "milk fat",
+      "soy lecithin",
+      "natural flavor"
+    ],
+    "response": "Overall Safety Assessment: Moderate\n\nKey Concerns:\n\n* Excessive intake of sugar may lead to health issues like diabetes and obesity\n* Unknown safety of milk, cocoa butter, lactose, and milk fat ingredients\n\nKey Benefits:\n\n* Soy lecithin is a commonly used and safe emulsifier\n\nRecommendations for Consumption:\n\n* Consume in moderation, considering the potential health risks associated with excessive sugar intake\n* Monitor individual tolerance to milk and milk-derived ingredients\n* No specific recommendations for soy lecithin, as it is generally considered safe\n\nAllergen Warnings:\n\n* Milk and soy are common allergens, so individuals with allergies or sensitivities should exercise caution when consuming this product.\n\nNote: The safety of natural flavor is unknown, and it is recommended to avoid consuming products with unknown ingredients if you have sensitivities or allergies.",
+    "model_used": "llama3-8b-8192",
+    "date": "2025-07-17 11:47:13"
+  },
+  "nutella": {
+    "product": "nutella",
+    "ingredients": [
+      "sugar",
+      "palm oil",
+      "hazelnuts",
+      "fat-reduced cocoa",
+      "skim milk",
+      "soy lecithin",
+      "vanillin"
+    ],
+    "response": "High sugar and palm oil content; contains nuts and milk. Consume in moderation.",
+    "date": "2025-07-06"
+  },
+  "quaker oats instant": {
+    "product": "quaker oats instant",
+    "ingredients": [
+      "whole grain rolled oats",
+      "sugar",
+      "salt",
+      "corn starch",
+      "malt flavor"
+    ],
+    "response": "Mostly natural oats; malt flavor and sugar add some processing. Generally safe.",
+    "date": "2025-07-06"
+  },
+  "campbell's tomato soup": {
+    "product": "campbell's tomato soup",
+    "ingredients": [
+      "tomato concentrate",
+      "water",
+      "high fructose corn syrup",
+      "salt",
+      "whey",
+      "modified food starch",
+      "monosodium glutamate",
+      "onion powder",
+      "spices"
+    ],
+    "response": "Contains MSG and high fructose corn syrup; consume in moderation.",
+    "date": "2025-07-06"
+  },
+  "clif bar chocolate chip": {
+    "product": "clif bar chocolate chip",
+    "ingredients": [
+      "organic rolled oats",
+      "chocolate chips",
+      "soy protein isolate",
+      "brown rice syrup",
+      "rice flour",
+      "peanut butter",
+      "almond butter",
+      "soy lecithin",
+      "natural flavors"
+    ],
+    "response": "Organic ingredients with some processed sweeteners and soy protein; healthy snack option for most.",
+    "date": "2025-07-06"
+  },
+  "prince polo": {
+    "product": "prince polo",
+    "ingredients": [
+      "sugar",
+      "wheat flour",
+      "vegetable oil",
+      "cocoa mass",
+      "skim milk powder",
+      "emulsifier (soy lecithin)",
+      "salt"
+    ],
+    "response": "Contains processed ingredients including emulsifiers and sugar; consume in moderation.",
+    "date": "2025-07-06"
+  },
+  "takis fuego": {
+    "product": "takis fuego",
+    "ingredients": [
+      "corn masa flour",
+      "vegetable oil",
+      "seasoning (salt, sugar, spices, maltodextrin, monosodium glutamate, artificial colors and flavors)",
+      "citric acid"
+    ],
+    "response": "Contains MSG and artificial colors/flavors; best consumed occasionally due to additives.",
+    "date": "2025-07-06"
+  },
+  "popchips original": {
+    "product": "popchips original",
+    "ingredients": [
+      "potatoes",
+      "rice flour",
+      "sunflower oil",
+      "corn starch",
+      "salt"
+    ],
+    "response": "Simple ingredients, generally safe and a better alternative to fried snacks.",
+    "date": "2025-07-06"
+  },
+  "kraft singles": {
+    "product": "kraft singles",
+    "ingredients": [
+      "milk protein concentrate",
+      "water",
+      "milkfat",
+      "whey",
+      "sodium citrate",
+      "salt",
+      "artificial flavor"
+    ],
+    "response": "Contains artificial flavors and processed dairy proteins; consume in moderation.",
+    "date": "2025-07-06"
+  },
+  "planters salted peanuts": {
+    "product": "planters salted peanuts",
+    "ingredients": [
+      "peanuts",
+      "salt"
+    ],
+    "response": "Simple and natural; good source of protein and healthy fats. Watch salt intake if needed.",
+    "date": "2025-07-06"
+  }
+}
