@@ -1,6 +1,6 @@
 from PIL import Image
 import pytesseract
-
+#testing git
 def extract_text(image_path):
     """Extract text from an image using Tesseract OCR."""
     img = Image.open(image_path)  # Open image using PIL
